@@ -1,0 +1,37 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: 0;
+}
+
+body{
+    height: 100vh;
+    background-color: rgb(19, 81, 161);
+  }
+
+.header{
+height: 10%;
+width:100%;
+background-color: rgb(67, 88, 116);
+}
+
+
+
+.arriba{
+    height: 20%;
+    width:100%;
+    background-color: rgb(59, 72, 88);
+}
+
+.medio{
+    height: 45%;
+    width:100%;
+    background-color: rgb(67, 88, 116);
+}
+
+.abajo{
+    height: 25%;
+    width:100%;
+    background-color: rgb(52, 66, 83);
+}
+
