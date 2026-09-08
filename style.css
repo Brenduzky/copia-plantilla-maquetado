@@ -10,7 +10,7 @@ body{
   }
 
 .header{
-height: 8%;
+height: 7%;
 width:94%;
 background-color: rgb(70, 82, 97);
 display: flex ;
@@ -19,7 +19,7 @@ padding-right: 3%;
 }
 
 .arriba{
-    height: 16%;
+    height: 12%;
     width:94%;
     background-color: rgb(59, 72, 88);
     padding-left: 3%;
@@ -28,14 +28,14 @@ padding-right: 3%;
 }
 
 .medio{
-    height: 48%;
+    height: 62%;
     width:100%;
     background-color: rgb(70, 82, 97);
     display: flex;
 }
 
 .abajo{
-    height: 25%;
+    height: 19%;
     width:100%;
     background-color: rgb(52, 66, 83);
 }
