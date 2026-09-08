@@ -10,23 +10,28 @@ body{
   }
 
 .header{
-height: 10%;
-width:100%;
-background-color: rgb(67, 88, 116);
+height: 8%;
+width:94%;
+background-color: rgb(70, 82, 97);
+display: flex ;
+padding-left: 3%;
+padding-right: 3%;
 }
 
-
-
 .arriba{
-    height: 20%;
-    width:100%;
+    height: 16%;
+    width:94%;
     background-color: rgb(59, 72, 88);
+    padding-left: 3%;
+padding-right: 3%;
+    display: flex;
 }
 
 .medio{
-    height: 45%;
+    height: 48%;
     width:100%;
-    background-color: rgb(67, 88, 116);
+    background-color: rgb(70, 82, 97);
+    display: flex;
 }
 
 .abajo{
@@ -35,3 +40,97 @@ background-color: rgb(67, 88, 116);
     background-color: rgb(52, 66, 83);
 }
 
+.primero{
+    height: 100%;
+    width:18%;
+    background-color: rgba(40, 117, 211, 0);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.segundo{
+    height: 100%;
+    width:42%;
+    background-color: rgba(54, 211, 40, 0);
+}
+
+.tercero{
+    height: 100%;
+    width:40%;
+    background-color: rgba(211, 185, 40, 0);
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.cajita{
+    height: 70%;
+    aspect-ratio: 1/1;
+    background-color: rgb(96, 102, 96);
+}
+
+.alargadas{
+    height: 35%;
+    width: 35%;
+    background-color: rgb(255, 255, 255);
+}
+.alargadachica{
+    height: 35%;
+    width: 18%;
+    background-color: rgb(96, 102, 96);
+}
+
+.primera{
+    height: 80%;
+    width:50%;
+    background-color: rgba(40, 117, 211, 0);
+    display: flex;
+    align-items:end;
+    justify-content: space-between;
+}
+.segunda{
+    height: 100%;
+    width:9.8%;
+    background-color: rgba(29, 160, 17, 0);
+}
+
+.tercera{
+    height: 100%;
+    width:40%;
+    background-color: rgba(211, 185, 40, 0);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.largita{
+    height:10%;
+    width: 20%;
+    background-color: rgb(202, 202, 202);
+}
+
+.cigarrillo{
+    height:35%;
+    width: 85%;
+    background-color: rgb(255, 255, 255);
+}
+.punta{
+    height:35%;
+    width: 10%;
+    background-color: rgb(240, 73, 73);
+}
+
+
+
+/*ya estoy por el medio*/
+
+.izquierda{
+    height:100%;
+    width: 40%;
+    background-color: rgb(240, 73, 73);
+}
+.derecha{
+    height:100%;
+    width: 10%;
+    background-color: rgb(223, 240, 73);
+}
